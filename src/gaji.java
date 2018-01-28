@@ -8,7 +8,7 @@ public class gaji {
     int hari_kerja;
     int kerja_ot;
     int gaji;
-    
+    System.out.print("Hello");
     System.out.print("Sila masukkan nama anda :");
     nama=input.nextLine();
     System.out.print("Sila masukkan jam bekerja :");
